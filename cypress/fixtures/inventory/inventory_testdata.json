@@ -1,0 +1,8 @@
+{
+  "dropdownoptions": {
+    "a_to_z": "az",
+    "z_to_a": "za",
+    "lowtohighprice": "lohi",
+    "hightolowprice": "hilo"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "expected": {
+    "messages": {
+      "error": "Epic sadface: Username and password do not match any user in this service",
+      "lockedouterror": "Epic sadface: Sorry, this user has been locked out.",
+      "nousername": "Epic sadface: Username is required",
+      "nopassword": "Epic sadface: Password is required",
+      "alert": "Sorting is broken! This error has been reported to Backtrace."
+    },
+    "assets": {
+      "imgurl": "/assets/sl-404-Cq1a9k9X.jpg"
+    }
+  },
+  "credentials": {
+    "standard_user": {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    },
+    "locked_out_user": {
+      "username": "locked_out_user",
+      "password": "secret_sauce"
+    },
+    "problem_user": {
+      "username": "problem_user",
+      "password": "secret_sauce"
+    },
+    "performance_glitch_user": {
+      "username": "performance_glitch_user",
+      "password": "secret_sauce"
+    },
+    "error_user": {
+      "username": "error_user",
+      "password": "secret_sauce"
+    },
+    "visual_user": {
+      "username": "visual_user",
+      "password": "secret_sauce"
+    },
+    "invalid_user": {
+      "username": "invalid_user",
+      "password": "invalid_password"
+    }
+  },
+  "dropdownoptions": {
+    "a_to_z": "az",
+    "z_to_a": "za",
+    "lowtohighprice": "lohi",
+    "hightolowprice": "hilo"
+  }
+}

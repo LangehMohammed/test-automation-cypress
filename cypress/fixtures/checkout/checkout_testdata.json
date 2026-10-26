@@ -1,0 +1,15 @@
+{
+  "expected": {
+    "message": {
+      "nofirstname": "Error: First Name is required",
+      "nolastname": "Error: Last Name is required",
+      "nopostalcode": "Error: Postal Code is required",
+      "thankyou": "Thank you for your order!"
+    }
+  },
+  "userinfo": {
+    "firstname": "John",
+    "lastname": "Doe",
+    "postalcode": "237"
+  }
+}
